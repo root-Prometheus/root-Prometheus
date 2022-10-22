@@ -35,9 +35,11 @@
 [![TimeouT.exe's HackerEarth ](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerrank.com/Emir_Gunday)
 [![TimeouT.exe's Project euler ](logo.jpg)](https://projecteuler.net/progress=TimeouT.exe)
 -----
-[![TimeouT.exe's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egunday&layout=compact&hide_border=true&theme=jolly)](https://github.com/TimeouT.exe?tab=repositories)
-
-[![TimeouT.exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=egunday&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/TimeouT.exe?tab=repositories)
+<div  align="center">
+<a href="https://github.com/fehbs">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=egunday&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egunday&layout=compact&langs_count=7&theme=react" />
+</div>
 <h1 align="center">My ECOLE 42 STATUS </h1>
 
 [![egunday's 42 stats](https://badge.mediaplus.ma/levi/egunday?UM6P=off)](https://github.com/oakoudad/badge42)
