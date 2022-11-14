@@ -42,7 +42,7 @@
 </div>
 <h1 align="center">My ECOLE 42 STATUS </h1>
 
-[![egunday's 42 stats](https://badge.mediaplus.ma/levi/egunday?UM6P=off)](https://github.com/oakoudad/badge42)
+
 
 [![egunday's 42 stats](https://badge42.vercel.app/api/v2/cl9ipv34l00110gl7t6d5p5jq/stats?cursusId=21&coalitionId=232)](https://github.com/JaeSeoKim/badge42)
 
