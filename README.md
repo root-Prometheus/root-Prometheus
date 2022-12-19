@@ -55,7 +55,7 @@
 | 4  | get_next_line   |[![egunday's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9ipv34l00110gl7t6d5p5jq/project/2846809)](https://github.com/JaeSeoKim/badge42) |  | 12 | CPP Module 01   | 🔒   |  | 22B | webserv | 🔒   |
 | 5A  | FdF   | 🔒 |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
 | 5B  | so_long   |  🔒 |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
-| 6A  | minitalk   | 🔒 |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 | 🔒  |
+| 6A  | minitalk   | ![egunday's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9ipv34l00110gl7t6d5p5jq/project/2846809)](https://github.com/JaeSeoKim/badge42) |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 | 🔒  |
 | 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | 🔒  |
 | 7  | push_swap   | 🔒|  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
 | 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
