@@ -4,7 +4,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=+--->+ARCH+Linux💻)](https://git.io/typing-svg) 
 
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=egunday&label=Profile%20views&color=0e75b6&style=flat" alt="egunday" /> </p>
-   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egunday&row=1" alt="egunday" /></a> </p>
+   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=root-Prometheus&row=1" alt="root-Prometheus" /></a> </p>
    
    
 			--👀 I’m interested in Machine Learning , Artifical intelligent , Data Science
@@ -37,8 +37,8 @@
 -----
 <div  align="center">
 <a href="https://github.com/fehbs">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=egunday&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egunday&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=root-Prometheus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-Prometheus&layout=compact&langs_count=7&theme=react" />
 </div>
 <h1 align="center">My ECOLE 42 STATUS </h1>
 
