@@ -1,6 +1,6 @@
 <h1 align="center">Hi,I'm Emir Taylan Günday </h1>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Computer+Programmer+and+AI+LOVER+and+Part+Time+Musician💻)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=AI+Fan+root-Prometheus)](https://git.io/typing-svg)
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=+--->+ARCH+Linux💻)](https://git.io/typing-svg) 
 
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=egunday&label=Profile%20views&color=0e75b6&style=flat" alt="egunday" /> </p>
@@ -53,9 +53,9 @@
 | 2  | born2beroot   |[![egunday's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9ipv34l00110gl7t6d5p5jq/project/2840677)](https://github.com/JaeSeoKim/badge42) |  | 10B | miniRT   | 🔒   |  | 21 | ft_containers | 🔒   |
 | 3  | ft_printf   | [![egunday's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9ipv34l00110gl7t6d5p5jq/project/2846808)](https://github.com/JaeSeoKim/badge42)|  | 11 | CPP Module 00   | 🔒   |  | 22A | ft_irc | 🔒   |
 | 4  | get_next_line   |[![egunday's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9ipv34l00110gl7t6d5p5jq/project/2846809)](https://github.com/JaeSeoKim/badge42) |  | 12 | CPP Module 01   | 🔒   |  | 22B | webserv | 🔒   |
-| 5A  | FdF   | 🔒 |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
+| 5A  | FdF   | [![egunday's 42 FdF Score](https://badge42.vercel.app/api/v2/cl9ipv34l00110gl7t6d5p5jq/project/2846809)](https://github.com/JaeSeoKim/badge42) |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
 | 5B  | so_long   |  🔒 |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
-| 6A  | minitalk   | ![egunday's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9ipv34l00110gl7t6d5p5jq/project/2846809) |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 | 🔒  |
+| 6A  | minitalk   | ![egunday's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl9ipv34l00110gl7t6d5p5jq/project/2846809) |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 | 🔒  |
 | 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | 🔒  |
 | 7  | push_swap   | 🔒|  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
 | 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
