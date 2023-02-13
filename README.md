@@ -1,6 +1,6 @@
 <h1 align="center">Hi,I'm Emir Taylan Günday </h1>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=AI+Fan+root-Prometheus)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=AI+Fan+root-Prometheus+Part+Time+Musician)](https://git.io/typing-svg)
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=+--->+ARCH+Linux💻)](https://git.io/typing-svg) 
 
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=egunday&label=Profile%20views&color=0e75b6&style=flat" alt="egunday" /> </p>
