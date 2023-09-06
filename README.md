@@ -1,13 +1,14 @@
 <h1 align="center">Hi,I'm Emir Taylan Günday </h1>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=AI+Fan+root-Prometheus+Part+Time+Musician)](https://git.io/typing-svg)
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=+--->+Bravo Six+Going Dark)](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=+--->+Bravo+Six+Going+Dark)](https://git.io/typing-svg) 
 
+<div align="center">
+  <img src="tumblr_11482ca6c3af66600392862ca81c63aa_bc7f1715_640.gif" alt="gif" />
+</div> 
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=egunday&label=Profile%20views&color=0e75b6&style=flat" alt="egunday" /> </p>
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=root-Prometheus&row=1" alt="root-Prometheus" /></a> </p>
-   <div align="center">
-  	<img src="tumblr_11482ca6c3af66600392862ca81c63aa_bc7f1715_640.gif" alt="gif" />
-   </div>
+
    
 			--👀 I’m interested in Machine Learning , Artifical intelligent , Data Science
 			--🌱 I’m currently learning C , C++,C#,Python
