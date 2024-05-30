@@ -33,5 +33,8 @@
 ------
 
 <p align="center">
-	<a href = "mailto:Emir-Gunday@hotmail.com">
-		<img alt = "Ask Me or job offers" src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:Emir-Gunday@hotmail.com" />
+	<a href="mailto:Emir-Gunday@hotmail.com">
+		<img alt="Ask Me or job offers" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:Emir-Gunday@hotmail.com" />
+	</a>
+</p>
+
