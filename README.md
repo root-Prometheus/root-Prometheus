@@ -1,7 +1,6 @@
 <h1 align="center">Hi,I'm Emir Taylan Günday </h1>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=AI+Fan+root-Prometheus+Part+Time+Musician)](https://git.io/typing-svg)
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=+--->+Bravo+Six+Going+Dark)](https://git.io/typing-svg) 
 
 <div align="center">
   <img src="tumblr_11482ca6c3af66600392862ca81c63aa_bc7f1715_640.gif" alt="gif" />
@@ -11,7 +10,7 @@
 
    
 			--👀 I’m interested in Machine Learning , Artifical intelligent , Data Science
-			--🌱 I’m currently learning C , C++,C#,Python
+			--🌱 I’m currently learning C , C++,Python
                        
                       
                       
