@@ -1,6 +1,6 @@
 <h1 align="center">Hi,I'm Emir Taylan Günday </h1>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I’m+interested+in+Machine+Learning+Artifical+intelligent+Data+Science)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=There+is+no+sunshine+when+she's+gone)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="tumblr_11482ca6c3af66600392862ca81c63aa_bc7f1715_640.gif" alt="gif" />
